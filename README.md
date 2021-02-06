@@ -1,1 +1,1 @@
-Apache flink basic session cluster on K8s via Argo 
+Apache flink basic Job cluster on K8s via Argo 
